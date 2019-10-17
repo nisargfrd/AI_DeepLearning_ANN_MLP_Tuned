@@ -1,6 +1,6 @@
 What is this repo about:
 # AI_DeepLearning_ANN_MLP_Tuned:
-This repo contains Jupyter Notebook for solving below mentioned problem statement using Perceptron and MLP models of ANN.</br>
+This repo contains Jupyter Notebook for solving below mentioned problem using Perceptron and MLP models of ANN.</br>
 I have also tuned the Hyperparameters: Learning rate and Batch-Size, for the best model.</br>
 
 # Problem Statement:
