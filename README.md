@@ -3,6 +3,9 @@ What is this repo about:
 This repo contains Jupyter Notebook for solving below mentioned problem using Perceptron and MLP models of ANN.</br>
 I have created a function to automatically select the best model based on TPR. Furthmore, I have also tuned the Hyperparameters: Learning rate and Batch-Size. Best values for these hyperparameters will be automatically selected for the best model.</br>
 
+# Preview the code:
+http://htmlpreview.github.io/?https://github.com/nisargfrd/AI_DeepLearning_ANN_MLP_Tuned/blob/master/BackOrders_Predictions_ANN_MLP.html
+
 # Problem Statement:
 Here we try to identify products at risk of backorder before the event occurs so that business has time to react.</br>
 I'll use Artificial Neural Networks (ANN) - Multi-layer Perceptron (MLP) model for the same.</br>
