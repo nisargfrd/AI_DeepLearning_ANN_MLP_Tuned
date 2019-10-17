@@ -1,12 +1,12 @@
 What is this repo about:
 # AI_DeepLearning_ANN_MLP_Tuned:
 This repo contains Jupyter Notebook for solving below mentioned problem using Perceptron and MLP models of ANN.</br>
-I have also tuned the Hyperparameters: Learning rate and Batch-Size, for the best model.</br>
+I have created a function to automatically select the best model based on TPR. Furthmore, I have also tuned the Hyperparameters: Learning rate and Batch-Size. Best values for these hyperparameters will be automatically selected for the best model.</br>
 
 # Problem Statement:
 Here we try to identify products at risk of backorder before the event occurs so that business has time to react.</br>
-We'll use Artificial Neural Networks (ANN) - Multi-layer Perceptron (MLP) model for the same.</br>
-We'll tune and find the best values for our Hyperparameters.
+I'll use Artificial Neural Networks (ANN) - Multi-layer Perceptron (MLP) model for the same.</br>
+I'll find the best of the ANN models from the trained ones. Also, I'll tune and use the best values for our Hyperparameters for the best model automatically.
 
 # What is a Backorder:
 Backorders are products that are temporarily out of stock, but a customer is permitted to place an order against future inventory.</br>
@@ -46,7 +46,7 @@ Recall/ TPR</br>
 We'll use TPR.
 
 # Prerequisites:
-Keras, Tensorflow (CPU and GPU for better performance) needs to be installed on your machine to run the attached code/notebook.</br>
+<b>Keras, Tensorflow (CPU and GPU for better performance), Graphviz</b> needs to be installed on your machine to correctly execute the attached code/notebook and view the model plots.</br>
 I've used "use_multiprocessing=True" option while fitting the model in Keras, for better performance.</br>
 If your machine has low-end hardware, you can remove that option and then execute the code.</br>
 
